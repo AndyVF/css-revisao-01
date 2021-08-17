@@ -1,0 +1,56 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: beige;
+}
+
+#Principal {
+    font-family: Arial;
+    font-style: italic;
+    font-weight: bold;
+    color: green;
+    font-size: 30px;
+    text-decoration: underline;
+    margin: 2%;
+}
+
+#tb1 {
+    border: solid;
+    border-bottom: 1px;
+    border-color:black;
+    width: 766px;
+    height: 36px;
+    background-color: #000033;
+    margin: 1%;
+    
+}
+
+.titulo {
+    font-family: Arial;
+    font-style: italic;
+    font-size: 15px;
+    background-color: #fff;
+}
+
+.origem {
+    font-family: Arial;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 20px;
+    color: #280;
+    background-color: #fff;
+}
+
+.resumo {
+    font-family: Arial;
+    font-size: 12px;
+    background-color: #fff;    
+}
+
+#rodape {
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 11px;
+    text-align: center;
+    background-color: #cfb;
+}
